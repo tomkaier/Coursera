@@ -1,0 +1,4 @@
+"0","# Subset of this for actual training "
+"0","training_3 <- training_2[1:2000,]"
+"0","# Take the next 1000 entries for cross-validation"
+"0","cross_val <- training_2[2001:3000,]"

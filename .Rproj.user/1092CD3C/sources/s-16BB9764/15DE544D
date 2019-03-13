@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552151916782.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "15DE544D",
+    "lastKnownWriteTime" : 1551982864,
+    "last_content_update" : 1552151918858,
+    "path" : "~/Github/Coursera/module8.Rmd",
+    "project_path" : "module8.Rmd",
+    "properties" : {
+        "cursorPosition" : "185,47",
+        "last_setup_crc32" : "16BB9764bb338d19",
+        "scrollLine" : "173",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

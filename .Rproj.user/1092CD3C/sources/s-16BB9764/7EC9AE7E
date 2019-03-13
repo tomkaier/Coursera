@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552148017870.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3569360466",
+    "id" : "7EC9AE7E",
+    "lastKnownWriteTime" : 1552148017,
+    "last_content_update" : 1552148017,
+    "path" : "~/Github/Coursera/testApp/server.R",
+    "project_path" : "testApp/server.R",
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

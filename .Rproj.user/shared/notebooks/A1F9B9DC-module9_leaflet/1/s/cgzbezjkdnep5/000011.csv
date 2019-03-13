@@ -1,0 +1,9 @@
+"0","my_map <- leaflet(df) %>% 
+  addTiles() %>%
+  addMarkers(icon = UK_icon, 
+             popup = df$name, 
+             clusterOptions = markerClusterOptions())
+"
+"2","Assuming ""lng"" and ""lat"" are longitude and latitude, respectively
+"
+"0","my_map"

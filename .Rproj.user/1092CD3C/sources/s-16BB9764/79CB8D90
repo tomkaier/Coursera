@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534940363364.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "132671294",
+    "id" : "79CB8D90",
+    "lastKnownWriteTime" : 1552148684,
+    "last_content_update" : 1552148684941,
+    "path" : "~/Github/Coursera/coursera.R",
+    "project_path" : "coursera.R",
+    "properties" : {
+        "cursorPosition" : "302,0",
+        "scrollLine" : "274",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

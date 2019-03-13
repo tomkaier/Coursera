@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552433550599.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3D832022",
+    "lastKnownWriteTime" : 1552024458,
+    "last_content_update" : 1552024458,
+    "path" : "~/Github/Developing_Data_Products/leaflet/leaflet.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "196,13",
+        "scrollLine" : "186"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
